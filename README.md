@@ -1,2 +1,2 @@
 # Calculator_CLI_App
-A simple Command-Line Interface (CLI) calculator built in Python that supports basic arithmetic operations — addition, subtraction, multiplication, and division.
+This is a Python-based CLI Calculator App that performs basic arithmetic operations including addition, subtraction, multiplication, and division. The calculator takes user input through the terminal, uses separate functions for each operation, and runs in a loop until the user decides to exit. It demonstrates fundamental Python concepts like functions, loops, conditionals, and input handling, making it a great beginner-level project.
